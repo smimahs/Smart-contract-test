@@ -59,7 +59,9 @@ after writing the tests we can run the tests like this:
 ```bash
 truffle test
 ```
+## web.js
 
+## Interacting with the dapp in a browser
 
 
 
